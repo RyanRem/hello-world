@@ -1,2 +1,1 @@
-hello
-bruh
+<!Doctype html>
